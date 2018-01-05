@@ -1,7 +1,17 @@
 Pluralization
 =============
 
-Example:
+Installation
+------------
+
+Installation using composer:
+
+```
+composer require noroman/pluralization
+```
+
+Example
+-------
 ```
 <?php
 require_once __DIR__ . '/vendor/autoload.php';
